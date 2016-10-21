@@ -1,6 +1,12 @@
-# SugarCRM SNEP click-to-call Integration
+# S.S.I.
+**S**ugarCRM **S**NEP **I**ntegration
 
-## pt-br
+## Roadmap
+- [x] Click to Call
+- [ ] Popup
+
+## click to call
+### pt-br
 
 * Crie um campo 'ramal' no módulo usuário
 * Posicione o campo 'ramal' na tela de ediação de acordo na localização que mais te agrada
@@ -9,7 +15,7 @@
 * No seu CRM acesse index.php?module=Administration&action=repair
 * Agora todos os telefones do site devem ser discáveis pelo SNEP apenas clicando neles eles
 
-## en
+### en
 
 * Create a field 'ramal' in user module
 * Drag the 'ramal' field in user edition view as you please
